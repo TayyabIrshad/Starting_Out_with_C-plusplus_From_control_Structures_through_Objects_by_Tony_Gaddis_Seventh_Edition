@@ -1,0 +1,4 @@
+﻿  Programming_Challenge_Ch3_21.cpp
+D:\Dev\Chapter_3\Programming_Challenges_Ch3\Programming_Challenge_Ch3_21\Programming_Challenge_Ch3_21.cpp(18,9): warning C4101: 'selling_income_after_commission_paid': unreferenced local variable
+D:\Dev\Chapter_3\Programming_Challenges_Ch3\Programming_Challenge_Ch3_21\Programming_Challenge_Ch3_21.cpp(17,9): warning C4101: 'purchase_cost_after_commission_paid': unreferenced local variable
+  Programming_Challenge_Ch3_21.vcxproj -> D:\Dev\Chapter_3\Programming_Challenges_Ch3\x64\Debug\Programming_Challenge_Ch3_21.exe

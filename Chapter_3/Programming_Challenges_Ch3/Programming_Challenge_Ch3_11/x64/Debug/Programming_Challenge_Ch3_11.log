@@ -1,0 +1,4 @@
+﻿  Programming_Challenge_Ch3_11.cpp
+D:\Dev\Chapter_3\Programming_Challenges_Ch3\Programming_Challenge_Ch3_11\Programming_Challenge_Ch3_11.cpp(9,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Dev\Chapter_3\Programming_Challenges_Ch3\Programming_Challenge_Ch3_11\Programming_Challenge_Ch3_11.cpp(10,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Programming_Challenge_Ch3_11.vcxproj -> D:\Dev\Chapter_3\Programming_Challenges_Ch3\x64\Debug\Programming_Challenge_Ch3_11.exe

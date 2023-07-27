@@ -1,0 +1,5 @@
+﻿  Programming_Challenge_4.21.cpp
+D:\Dev\Chapter_4\Programming_Challenges_Ch4\Programming_Challenge_4.21\Programming_Challenge_4.21.cpp(27,7): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Dev\Chapter_4\Programming_Challenges_Ch4\Programming_Challenge_4.21\Programming_Challenge_4.21.cpp(33,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Dev\Chapter_4\Programming_Challenges_Ch4\Programming_Challenge_4.21\Programming_Challenge_4.21.cpp(73,68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Programming_Challenge_4.21.vcxproj -> D:\Dev\Chapter_4\Programming_Challenges_Ch4\Programming_Challenge_4.1\x64\Debug\Programming_Challenge_4.21.exe
