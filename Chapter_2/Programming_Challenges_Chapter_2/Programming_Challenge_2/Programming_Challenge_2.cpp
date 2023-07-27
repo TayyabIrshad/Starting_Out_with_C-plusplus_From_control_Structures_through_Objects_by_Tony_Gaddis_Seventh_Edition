@@ -9,4 +9,5 @@ int main()
 	amount_generated = sales_percent / 100 * sales_this_year;
 
 	cout << "The East Coast division will generate: " << amount_generated << endl;
+	return 0;
 }
