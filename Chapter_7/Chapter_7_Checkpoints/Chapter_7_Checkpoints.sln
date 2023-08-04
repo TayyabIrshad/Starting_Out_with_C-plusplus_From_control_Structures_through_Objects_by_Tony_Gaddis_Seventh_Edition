@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Checkpoint_7.7", "Checkpoint_7.7\Checkpoint_7.7.vcxproj", "{4B23255C-7CA5-4BA1-82D3-1E18BF83857A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B23255C-7CA5-4BA1-82D3-1E18BF83857A}.Debug|x64.ActiveCfg = Debug|x64
+		{4B23255C-7CA5-4BA1-82D3-1E18BF83857A}.Debug|x64.Build.0 = Debug|x64
+		{4B23255C-7CA5-4BA1-82D3-1E18BF83857A}.Debug|x86.ActiveCfg = Debug|Win32
+		{4B23255C-7CA5-4BA1-82D3-1E18BF83857A}.Debug|x86.Build.0 = Debug|Win32
+		{4B23255C-7CA5-4BA1-82D3-1E18BF83857A}.Release|x64.ActiveCfg = Release|x64
+		{4B23255C-7CA5-4BA1-82D3-1E18BF83857A}.Release|x64.Build.0 = Release|x64
+		{4B23255C-7CA5-4BA1-82D3-1E18BF83857A}.Release|x86.ActiveCfg = Release|Win32
+		{4B23255C-7CA5-4BA1-82D3-1E18BF83857A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45121A2D-9983-43C9-A019-DB2E08301608}
+	EndGlobalSection
+EndGlobal
